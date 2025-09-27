@@ -6,7 +6,7 @@ This project uses a machine learning model to predict whether an individual's in
 
 The analysis involves cleaning the data, comparing five different classification models, and selecting the best-performing one (Gradient Boosting) to build an interactive web application.
 
-## Files in this Repository
+## Files in this Repository,hey////
 
 * **`employee salary prediction (1).ipynb`**: The main Jupyter Notebook containing all the data cleaning, analysis, and model comparison.
 * **`adult 3.csv`**: The dataset used for training and testing the models.
